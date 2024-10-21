@@ -6,7 +6,7 @@ def fajlBeolv(fájlNév):
         print(f"A {fájlNév} nincs ilyen nevű fájl.")
         return None
 
-def is_number(adat):
+def haSzamAd(adat):
     try:
         [float(item) for item in adat]
         return True
@@ -60,7 +60,7 @@ def main():
         print("A fájl üres vagy nem olvasható.")
         return
 
-    szam = is_number(adat)
+    szam = haSzamAd(adat)
     if szam:
         adat = [float(item) for item in adat]
         print("A fájl számokat tartalmaz.")

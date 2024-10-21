@@ -1,0 +1,14 @@
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\bin\Debug\net8.0\projekt_vegso.exe
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\bin\Debug\net8.0\projekt_vegso.deps.json
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\bin\Debug\net8.0\projekt_vegso.runtimeconfig.json
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\bin\Debug\net8.0\projekt_vegso.dll
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\bin\Debug\net8.0\projekt_vegso.pdb
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\projekt_vegso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\projekt_vegso.AssemblyInfoInputs.cache
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\projekt_vegso.AssemblyInfo.cs
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\projekt_vegso.csproj.CoreCompileInputs.cache
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\projekt_vegso.dll
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\refint\projekt_vegso.dll
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\projekt_vegso.pdb
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\projekt_vegso.genruntimeconfig.cache
+C:\Users\szabad.daniel\Desktop\projekt_vegso\projekt_vegso\obj\Debug\net8.0\ref\projekt_vegso.dll

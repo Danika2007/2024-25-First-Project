@@ -73,7 +73,7 @@ class Program
             return new string(Enumerable.Repeat(chars, length).Select(s => s[random.Next(s.Length)]).ToArray());
         }).ToList();
 
-        File.WriteAllText("ki.txt", string.Join(";", strings));
+        File.WriteAllText("ki.txt", string.Join(";",Environment.NewLine, strings));
         Console.WriteLine("A véletlen szövegek a ki.txt fájlba lettek írva.");
     }
 
